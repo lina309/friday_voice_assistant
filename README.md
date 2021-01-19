@@ -1,4 +1,4 @@
-### TOOLS AND TECHNOLOGY LAB PROJECT
+### FRIDAY The Voice Assistant
 Friday is a voice assistant, which when played helps you perform several tasks by having conversation with it.
 
 Functionalities added:
